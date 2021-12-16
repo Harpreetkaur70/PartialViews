@@ -1,0 +1,16 @@
+﻿@model PartialViews.Models.Film
+@{
+    ViewBag.Title = "Index";
+}
+
+<tr>
+    <th>
+        <h2> @Html.DisplayFor(model => model.Title)</h2>
+    </th>
+    <th>
+        <span>  @Html.DisplayFor(model => model.Duration)</span>
+    </th>
+    <th>
+        <p> @Html.DisplayFor(model => model.Description)</p>
+    </th>
+</tr>
