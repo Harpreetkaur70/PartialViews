@@ -8480,11 +8480,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\QServices\\Assignments\\PartialViews\\PartialViews\\PartialViews.csproj",
+      "projectUniqueName": "D:\\QServices\\Assignments\\Git\\PartialViews\\PartialViews.csproj",
       "projectName": "PartialViews",
-      "projectPath": "D:\\QServices\\Assignments\\PartialViews\\PartialViews\\PartialViews.csproj",
+      "projectPath": "D:\\QServices\\Assignments\\Git\\PartialViews\\PartialViews.csproj",
       "packagesPath": "C:\\Users\\rohit\\.nuget\\packages\\",
-      "outputPath": "D:\\QServices\\Assignments\\PartialViews\\PartialViews\\obj\\",
+      "outputPath": "D:\\QServices\\Assignments\\Git\\PartialViews\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\rohit\\AppData\\Roaming\\NuGet\\NuGet.Config",

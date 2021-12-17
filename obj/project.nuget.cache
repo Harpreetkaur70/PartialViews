@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uQyt7Psh1EY7mEH9SwxYujXMcd7v6HA/RscfcRs1FjLSYLrC3T28l3a19kP3Mbb57m/0Z//77piXK6TcDJQ+ag==",
+  "dgSpecHash": "HQ4iOcLed3M4zWzWn1EqhPknHwTpKa9iRQR9pBskwDzWSq5ph2Qcx3sywb5T60PuFxPX+DANFk9I7flEn1HLFA==",
   "success": true,
-  "projectFilePath": "D:\\QServices\\Assignments\\PartialViews\\PartialViews\\PartialViews.csproj",
+  "projectFilePath": "D:\\QServices\\Assignments\\Git\\PartialViews\\PartialViews.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rohit\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\rohit\\.nuget\\packages\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",
